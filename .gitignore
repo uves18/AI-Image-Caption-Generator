@@ -1,0 +1,6 @@
+venv
+__pyache__
+*.pyc
+.streamlit
+*.csv
+.DS_Store
