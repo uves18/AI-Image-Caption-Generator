@@ -81,6 +81,9 @@ Example style behavior:
 - Add unit tests for caption prompt handling and post-processing
 - Add a Dockerfile for reproducible deployment
 
+## Demo link
+https://drive.google.com/file/d/1MBbWfIIZBZ5-KE2KOQ-Ex3gGTl4CDtVp/view?usp=sharing
+
 ## License
 
 This repository is available for personal use and experiment. Feel free to adapt it for your own projects.
